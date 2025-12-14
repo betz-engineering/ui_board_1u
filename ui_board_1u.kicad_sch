@@ -2892,7 +2892,7 @@
 		)
 		(uuid "336c5551-92b2-4df1-85a3-18113657dbee")
 	)
-	(text "V_OUT = 1.233 V (1 + R1 / R2) = 12.0 V"
+	(text "V_OUT = 1.233 V (1 + R1 / R2) = 13.6 V"
 		(exclude_from_sim no)
 		(at 241.3 144.526 0)
 		(effects
@@ -3024,6 +3024,16 @@
 			(justify left bottom)
 		)
 		(uuid "c130604d-71fe-4572-af2f-8e05bb5c8e0e")
+	)
+	(text "VOUT = 1.235V * (1 + R1/R2) = 3.34 V"
+		(exclude_from_sim no)
+		(at 223.774 102.616 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c5c6f559-8539-4504-9216-262c406593be")
 	)
 	(text "D1 is optional"
 		(exclude_from_sim no)
@@ -3274,16 +3284,6 @@
 			(type default)
 		)
 		(uuid "128e97a4-2dd3-40cd-b8d7-2c7d0eaf9601")
-	)
-	(wire
-		(pts
-			(xy 132.08 107.95) (xy 134.62 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "144a493b-6d8f-4e7f-a2f7-8e65d6136ad1")
 	)
 	(wire
 		(pts
@@ -3557,6 +3557,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 107.95) (xy 158.75 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92e1fa96-ab62-4d18-9db1-de16872c5516")
+	)
+	(wire
+		(pts
 			(xy 212.09 120.65) (xy 218.44 120.65)
 		)
 		(stroke
@@ -3784,16 +3794,6 @@
 			(type default)
 		)
 		(uuid "ddc0b6d4-8c0b-4bd3-99d0-4d7bfdd43958")
-	)
-	(wire
-		(pts
-			(xy 142.24 107.95) (xy 158.75 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e19af443-fae2-4b21-8925-5636013d42c9")
 	)
 	(wire
 		(pts
@@ -5236,7 +5236,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "30k"
 			(at 247.65 93.98 90)
 			(effects
 				(font
@@ -5768,7 +5768,7 @@
 				)
 			)
 		)
-		(property "Value" "1M8"
+		(property "Value" "330k"
 			(at 238.76 125.73 90)
 			(effects
 				(font
@@ -6028,7 +6028,7 @@
 				)
 			)
 		)
-		(property "Value" "37k4"
+		(property "Value" "51k"
 			(at 247.65 86.36 90)
 			(effects
 				(font
@@ -6965,7 +6965,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4p7"
+		(property "Value" "10p"
 			(at 245.11 128.27 0)
 			(effects
 				(font
@@ -7366,7 +7366,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 245.872 139.954 0)
+			(at 245.11 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7428,7 +7428,7 @@
 				)
 			)
 		)
-		(property "Value" "50R"
+		(property "Value" "51R"
 			(at 138.43 123.952 90)
 			(effects
 				(font
@@ -7479,7 +7479,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 138.43 107.95 270)
+		(at 135.89 107.95 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7487,15 +7487,15 @@
 		(dnp no)
 		(uuid "8a94dc6f-6bab-4e11-88ea-96739c32aa03")
 		(property "Reference" "R20"
-			(at 138.176 107.95 90)
+			(at 135.636 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "680k"
-			(at 138.43 105.41 90)
+		(property "Value" "200k"
+			(at 135.89 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7503,7 +7503,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 138.43 106.172 90)
+			(at 135.89 106.172 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7512,7 +7512,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.43 107.95 0)
+			(at 135.89 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7521,7 +7521,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 107.95 0)
+			(at 135.89 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8092,8 +8092,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SSD1322"
-			(at 162.052 49.022 0)
+		(property "Value" "AFC01-S30FCA-00"
+			(at 156.464 49.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8313,8 +8313,8 @@
 				)
 			)
 		)
-		(property "Value" "205k"
-			(at 238.506 135.89 90)
+		(property "Value" "33k"
+			(at 238.76 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8942,6 +8942,72 @@
 			(project "ui_board_1u"
 				(path "/3def8ca7-c7ff-40fd-acc8-d6d3f6c3eb5b"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 143.51 107.95 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cca7372c-084d-4617-bdaf-ed4cbd500511")
+		(property "Reference" "R27"
+			(at 143.256 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470k"
+			(at 143.51 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 143.51 106.172 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 143.51 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "73c971c9-94f8-4ce0-aba9-ff68c66838ae")
+		)
+		(pin "2"
+			(uuid "9f2746e4-7bc3-4435-9e3b-70248bec0610")
+		)
+		(instances
+			(project "ui_board_1u"
+				(path "/3def8ca7-c7ff-40fd-acc8-d6d3f6c3eb5b"
+					(reference "R27")
 					(unit 1)
 				)
 			)
