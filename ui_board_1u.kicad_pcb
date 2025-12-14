@@ -10803,7 +10803,7 @@
 			(uuid "08d8249a-e442-4a82-869e-fcf5f86694fc")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../symbols/PEC16-4X20F-SXXXX.stp"
+		(model "${KIPRJMOD}/cad/step/PEC16-4X20F-SXXXX.stp"
 			(offset
 				(xyz 0 0 5.5)
 			)
@@ -11372,7 +11372,7 @@
 			(uuid "0efc6293-0ead-4825-af62-96cabaab4462")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../symbols/RS-3535MWAR.step"
+		(model "${KIPRJMOD}/cad/step/RS-3535MWAR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11957,7 +11957,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_Omron_B3FS-105xP.wrl"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13204,7 +13203,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/cad/oled_panel_frame.step"
+		(model "${KIPRJMOD}/cad/step/oled_panel_frame.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16153,7 +16152,7 @@
 			(uuid "7faeb7ce-75e2-412e-8c1b-8a3383afed94")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../symbols/RS-3535MWAR.step"
+		(model "${KIPRJMOD}/cad/step/RS-3535MWAR.step"
 			(offset
 				(xyz 0 0 0)
 			)
