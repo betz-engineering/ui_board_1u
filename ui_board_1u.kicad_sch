@@ -2870,28 +2870,6 @@
 		)
 		(uuid "2121999a-afd4-41f3-8904-99fe1e4cdd03")
 	)
-	(text "P7"
-		(exclude_from_sim no)
-		(at 72.136 53.848 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "309a4fbc-2d9d-4518-8f1c-49a645ef7b59")
-	)
-	(text "P2"
-		(exclude_from_sim no)
-		(at 29.21 56.642 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "336c5551-92b2-4df1-85a3-18113657dbee")
-	)
 	(text "V_OUT = 1.233 V (1 + R1 / R2) = 13.6 V"
 		(exclude_from_sim no)
 		(at 241.3 144.526 0)
@@ -2902,9 +2880,9 @@
 		)
 		(uuid "33f82e15-f87a-46b7-911e-e063ce53405e")
 	)
-	(text "Alternative header: JLC# C9136\nRibbon cable connector: JLC# C21854"
+	(text "Alternative header: JLC# C9136"
 		(exclude_from_sim no)
-		(at 50.8 73.152 0)
+		(at 51.308 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2925,31 +2903,9 @@
 		)
 		(uuid "5255e122-7856-43c8-b5a0-8b861b59a1b8")
 	)
-	(text "P4"
+	(text "Use IDC ribbon-cable to get a \n1:1 connection to a PMOD2A host\n\nWhen plugging the display directly\ninto a PMOD port, be aware the the\ncolumns (even and odd pin numbers)\nwill be swapped compared to the PMOD\nstandard\n\n"
 		(exclude_from_sim no)
-		(at 29.21 61.722 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "55ddba35-d909-49ae-8aad-5d3003b8c7cd")
-	)
-	(text "PICO =\nperipheral in\ncontroller out,\n"
-		(exclude_from_sim no)
-		(at 37.084 92.456 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "56392f7a-11b6-4e0a-8520-295e1efc8fad")
-	)
-	(text "Caveat:\n  * when using a direct connection to a PMOD host\n    like CMODA7 for testing, the 2 \n    connector columns are swapped\n  * Use IDC ribbon cable to get a 1:1\n	connection to a PMOD host without swapped\n	rows."
-		(exclude_from_sim no)
-		(at 44.704 92.964 0)
+		(at 34.798 86.106 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2971,6 +2927,17 @@
 		)
 		(uuid "7492f78d-ad9b-4acb-abf2-729063d11de9")
 	)
+	(text "For a matching cable, search for:\nFC-FD DC4 IDC 2.54mm pitch Male \nto Female connector "
+		(exclude_from_sim no)
+		(at 34.798 101.092 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8992772e-d792-48ef-88df-533d88ab6bc6")
+	)
 	(text "BS0 = high:\n3 line SPI"
 		(exclude_from_sim no)
 		(at 137.16 85.598 0)
@@ -2980,50 +2947,6 @@
 			)
 		)
 		(uuid "8ca16674-e058-4159-a35f-024fda7fd352")
-	)
-	(text "P9"
-		(exclude_from_sim no)
-		(at 72.136 58.928 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "989bcb43-ed44-48d8-ac1d-ccaceb5c4dd8")
-	)
-	(text "P1"
-		(exclude_from_sim no)
-		(at 29.21 54.102 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "98d9ef9a-0b67-4de6-94c7-35fef7393ca4")
-	)
-	(text "P3"
-		(exclude_from_sim no)
-		(at 29.21 59.182 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "98f12e5d-c4fe-403b-bd9d-49f40c4e3049")
-	)
-	(text "PMOD labels"
-		(exclude_from_sim no)
-		(at 27.94 63.5 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c130604d-71fe-4572-af2f-8e05bb5c8e0e")
 	)
 	(text "VOUT = 1.235V * (1 + R1/R2) = 3.34 V"
 		(exclude_from_sim no)
@@ -3055,39 +2978,6 @@
 			(justify left)
 		)
 		(uuid "cbe164ac-906c-46b2-aa1d-60fbaf0605a8")
-	)
-	(text "POCI = \nperipheral out\ncontroller in,\n"
-		(exclude_from_sim no)
-		(at 36.83 100.838 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d6549d87-3e33-4e31-adc9-c3283f9d6c14")
-	)
-	(text "P10"
-		(exclude_from_sim no)
-		(at 72.136 61.468 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eaa8f49f-cdf1-4984-ac13-a1c2112dc9d3")
-	)
-	(text "P8"
-		(exclude_from_sim no)
-		(at 72.136 56.388 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f9baeccd-0dd5-431f-bbed-513e0d82d659")
 	)
 	(junction
 		(at 210.82 82.55)
@@ -4016,7 +3906,25 @@
 			"6mudVQAAsKvqa51VAAAIrOprnVUAAACr6mudVQAAWKvqa51VAACApeprnVUAANil6mudVQAAEK3q"
 			"a51VAABoreprnVUAAGCs6mudVQAAuKzqa51VAABwruprnVUAAMiu6mudVQAAwK3qa51VAAAYrupr"
 			"nVUAADCm6mudVQAAiKbqa51VAADQr+prnVUAACiw6mudVQAAIK/qa51VAAB4r+prnVUAAICw6mud"
-			"VQAA2LDqa51VAA=="
+			"VQAA2LDqa51VAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAA=="
 		)
 	)
 	(global_label "CS_OLED_N"
@@ -4041,7 +3949,7 @@
 			)
 		)
 	)
-	(global_label "POCI"
+	(global_label "SDO"
 		(shape input)
 		(at 44.45 58.42 180)
 		(fields_autoplaced yes)
@@ -4053,7 +3961,7 @@
 		)
 		(uuid "174f456a-ad14-434a-a901-5e8b9a53664e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.6437 58.42 0)
+			(at 38.309 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4107,7 +4015,7 @@
 			)
 		)
 	)
-	(global_label "PICO"
+	(global_label "SDI"
 		(shape output)
 		(at 44.45 55.88 180)
 		(fields_autoplaced yes)
@@ -4119,7 +4027,7 @@
 		)
 		(uuid "324f5e72-a96e-4d69-8af4-46c479c7e910")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.6437 55.88 0)
+			(at 39.0347 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4217,7 +4125,7 @@
 			)
 		)
 	)
-	(global_label "PICO"
+	(global_label "SDI"
 		(shape input)
 		(at 154.94 82.55 180)
 		(fields_autoplaced yes)
@@ -4229,7 +4137,7 @@
 		)
 		(uuid "727218c3-6334-4aca-971b-1e59a2eae141")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.1337 82.55 0)
+			(at 149.5247 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
