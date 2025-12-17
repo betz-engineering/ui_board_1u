@@ -3885,7 +3885,7 @@
 	)
 	(image
 		(at 187.325 172.085)
-		(scale 0.417576)
+		(scale 0.413382)
 		(uuid "76c4d4b8-237f-462f-b325-c5733a9bfed0")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAP4AAAD+CAYAAAAalrhRAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"
 			"GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAHoxJREFUeJzt3Xt8VdWd9/FPQggE"
@@ -4062,7 +4062,61 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-			"AAAAAAAAAAAAAA=="
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAFUAACAbH8HHfwAAAAAAAAAAAAAAAAAAAAAAAAAUikD+f8bAOr7dPQUAAACgQO1X"
+			"x38AAICCsrmpVQAAAAAAAAAAgL8tvTuzAAAAAAAAgL8tvTuzAAAAAAAAgL8tvTuzAAAAAAAUikCd"
+			"UcXASt4YPgAUikBersfA3r+JPQAUikCdUcXA3r+JPQAAgL8AAAAAAAAAgAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAP///////////////wAAAIAAAAAAABSKQAAAAAAAAACAcbxYwXG8WEEDEEPBEudZ"
+			"P/AAAAAAAAAAIAAAAAAAAABCIS2arFUAAGAqscCpVQAAAAAAAAAAAAARkgAAAAAAAHDAscCpVQAA"
+			"IBsfwcd/AAAAAAAAAAAAAAAAAAAAAAAAABSKQP5/xsA6vt09BQAAAKBA7VfHfwAAgIKyualVAAAA"
+			"AAAAAACAvy29O7MAAAAAAACAvy29O7MAAAAAAACAvy29O7MAAAAAABSKQJ1RxcBK3hg+ABSKQF6u"
+			"x8BK3hg+ABSKQF6ux8Dev4k9AACAvwAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////"
+			"////////////AAAAAAAAAIAAFIpAAAAAAAMQQ0FxvFjBAAAAgAMQQ8F+aKQ+8AAAAAAAAAAgAAAA"
+			"AAAAAHIgLZqsVQAAcCuxwKlVAAAAAAAAAAAAAAGRAAAAAAAAcMCxwKlVAAAgGx/Bx38AAAAAAAAA"
+			"AAAAAAAAAAAAAACW3YpA/n/GwN6/iT0FAAAAoEDtV8d/AACAgrK5qVUAAAAAAAAAAACAAAAAAAAA"
+			"gL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AFIpAnVHFwN6/iT0AFIpAXq7HwN6/iT0rp4tAXq7H"
+			"wN6/iT0AAAAAAAAAAAAAgL8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAACA"
+			"AAAAgN6/iT0CAAAAcbxYwXeNosF3jaJBAAAAAKDcnz7wAAAAAAAAACAAAAAAAAAAYictmqxVAACA"
+			"LLHAqVUAAAAAAAAAAAAA8Y8AAAAAAABwwLHAqVUAACAbH8HHfwAAAAAAAAAAAAAAAAAAAAAAAJbd"
+			"ikD+f8bA3r+JPQUAAACgQO1Xx38AAICCsrmpVQAAAAAAAAAAAIAAAAAAAACAvwAAAIAAAAAAAACA"
+			"vwAAAIAAAAAAAACAvwAUikCdUcXA3r+JPSuni0BersfA3r+JPSuni0CdUcXA3r+JPQAAAAAAAAAA"
+			"AACAvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////wAAAIAAAACA3r+JPQIAAABx"
+			"vFjBAAAAAHeNog=="
 		)
 	)
 	(global_label "CS_OLED_N"
@@ -6429,6 +6483,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+15V")
+		(at 137.16 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4870f4c2-144a-43f1-af27-8ab587b8a12f")
+		(property "Reference" "#PWR016"
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 140.97 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+15V\""
+			(at 137.16 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "59db5388-ba9a-4972-9674-5c088ccf4ebc")
+		)
+		(instances
+			(project "ui_board_1u"
+				(path "/3def8ca7-c7ff-40fd-acc8-d6d3f6c3eb5b"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 138.43 92.71 90)
 		(unit 1)
@@ -6562,7 +6681,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 125.73 62.23 0)
+		(at 125.73 44.45 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6571,7 +6690,7 @@
 		(dnp no)
 		(uuid "51527922-dc09-4002-ada0-16acb07289b4")
 		(property "Reference" "C2"
-			(at 132.588 61.214 0)
+			(at 132.588 43.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,7 +6699,7 @@
 			)
 		)
 		(property "Value" "4u7"
-			(at 133.096 64.262 0)
+			(at 133.096 46.482 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6589,7 +6708,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 124.7648 66.04 0)
+			(at 124.7648 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,7 +6717,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 125.73 62.23 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6607,7 +6726,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 62.23 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7217,6 +7336,70 @@
 			(project ""
 				(path "/3def8ca7-c7ff-40fd-acc8-d6d3f6c3eb5b"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 137.16 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "714c2c76-77f6-4467-8cff-0850acfec9bc")
+		(property "Reference" "#PWR015"
+			(at 137.16 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 140.716 50.292 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1fc358be-785c-4208-96d7-e219863c7e96")
+		)
+		(instances
+			(project "ui_board_1u"
+				(path "/3def8ca7-c7ff-40fd-acc8-d6d3f6c3eb5b"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -9354,6 +9537,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 137.16 44.45 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cd896f74-6df4-4786-b97d-f98e1abfd54b")
+		(property "Reference" "C18"
+			(at 141.224 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4u7"
+			(at 141.478 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 136.1948 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "28a64a68-3f0e-4237-a988-95a8f1ba7f4f")
+		)
+		(pin "2"
+			(uuid "823d1776-bc16-4dcc-9e45-cab1fc3cd1e3")
+		)
+		(instances
+			(project "ui_board_1u"
+				(path "/3def8ca7-c7ff-40fd-acc8-d6d3f6c3eb5b"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 158.75 77.47 270)
 		(unit 1)
@@ -9811,16 +10063,16 @@
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 203.2 172.72 0)
+		(at 204.47 172.72 0)
 		(unit 1)
-		(exclude_from_sim yes)
+		(exclude_from_sim no)
 		(in_bom no)
 		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4616687-a4f7-49e1-88f9-79794c64ad08")
 		(property "Reference" "#SYM1"
-			(at 203.2 165.735 0)
+			(at 204.47 165.735 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9829,7 +10081,7 @@
 			)
 		)
 		(property "Value" "Logo_Open_Hardware_Small"
-			(at 203.2 178.435 0)
+			(at 204.47 178.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9838,7 +10090,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 172.72 0)
+			(at 204.47 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9847,7 +10099,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 172.72 0)
+			(at 204.47 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9856,7 +10108,7 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 203.2 172.72 0)
+			(at 204.47 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9875,7 +10127,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 125.73 66.04 0)
+		(at 125.73 48.26 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9884,7 +10136,7 @@
 		(dnp no)
 		(uuid "ea536db3-fa3d-4200-a227-b0d3d6fe79d0")
 		(property "Reference" "#PWR0124"
-			(at 125.73 72.39 0)
+			(at 125.73 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9893,7 +10145,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.302 67.564 0)
+			(at 130.302 49.784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9901,7 +10153,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 66.04 0)
+			(at 125.73 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9910,7 +10162,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 66.04 0)
+			(at 125.73 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9919,7 +10171,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 66.04 0)
+			(at 125.73 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10225,7 +10477,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 125.73 58.42 0)
+		(at 125.73 40.64 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10234,7 +10486,7 @@
 		(dnp no)
 		(uuid "f52fe00f-b4e9-4edd-ad5a-1c3983c587d3")
 		(property "Reference" "#PWR0117"
-			(at 125.73 62.23 0)
+			(at 125.73 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10243,7 +10495,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 130.048 56.896 0)
+			(at 130.048 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10251,7 +10503,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 58.42 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10260,7 +10512,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 58.42 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10269,7 +10521,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 125.73 58.42 0)
+			(at 125.73 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
