@@ -11771,7 +11771,7 @@
 				)
 			)
 		)
-		(property "Value" "ZX-QC66-7.5TP"
+		(property "Value" "B3FS-1052"
 			(at 0 4.2 90)
 			(layer "F.Fab")
 			(uuid "2c51c810-d1f2-4456-8d15-d9a1e916ed8d")
@@ -12100,6 +12100,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/cad/step/button_cap.step"
+			(offset
+				(xyz 0 0 4.4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -13214,6 +13225,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/cad/step/oled_panel_2.8inch.step"
+			(offset
+				(xyz 23.9 -43.7 73.52)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -180)
+			)
+		)
+		(model "${KIPRJMOD}/cad/step/example_front_panel_2u.step"
+			(offset
+				(xyz -347.5 -44 11)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -30365,6 +30398,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -30377,6 +30411,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)

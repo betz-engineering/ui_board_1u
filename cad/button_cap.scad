@@ -11,7 +11,7 @@ h_clip = 1.0;  // height of the hook shaped clip
 h_head = 1.8 + gap;  // height of the cube head of the button
 h_stamp = h_clip + h_head;  // total height of the negative area
 
-h_button = 8 + 5; // total height of the button measured from the _PCB_
+h_button = 8 + 7; // total height of the button measured from the _PCB_
 h_cap = h_stamp + h_button - 7.3;
 echo(h_cap);
 
@@ -42,7 +42,8 @@ module cap(){
 	difference() {
 		union() {
 			cylinder(h=h_cap, d=5);
-			cylinder(h=3, d=6);
+			// larger diameter for the inside part
+			cylinder(h=h_stamp + 8 - 7.3 - 2 * gap, d=6);
 		}
 		stamp();
 		// the slot
@@ -63,6 +64,8 @@ module cone()
 // simulate the switch head
 // translate([0, 0, 7.3 - 1.8])
 // 	cube_(size=[2.4, 2.4, 1.8]);
+
+echo("button z", -h_stamp + 7.3 + gap / 2);
 
 intersection() {
 	translate([0, 0, -h_stamp + 7.3 + gap / 2])

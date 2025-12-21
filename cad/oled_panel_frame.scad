@@ -14,7 +14,7 @@ shell_thickness = 2;
 gap = 0.3;
 
 // How far the bottom of the panel is lifted from the carrier PCB
-h_offset = 5.5;
+h_offset = 5.7;
 echo("h_offset: ", h_offset);
 
 // Total height of the part
@@ -86,7 +86,7 @@ module oled_frame() {
 
 intersection() {
 	union() {
-		oled_frame();
+		!oled_frame();
 		// Square nut
 		// translate([40, 0, 2])
 		// 	cube_(size=[5.0, 5.0, 1.55]);
