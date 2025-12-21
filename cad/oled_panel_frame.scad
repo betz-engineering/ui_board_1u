@@ -1,4 +1,4 @@
-$fn = $preview ? 30 : 100;
+$fn = $preview ? 30 : 200;
 
 include <helpers.scad>
 
@@ -11,7 +11,7 @@ t_panel = 2.0;
 shell_thickness = 2;
 
 // space (wiggle room) between panel and frame around it
-gap = 0.5;
+gap = 0.3;
 
 // How far the bottom of the panel is lifted from the carrier PCB
 h_offset = 5.5;
