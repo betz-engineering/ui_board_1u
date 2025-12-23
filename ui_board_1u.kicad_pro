@@ -34,7 +34,7 @@
         "other_text_italic": false,
         "other_text_size_h": 2.0,
         "other_text_size_v": 2.0,
-        "other_text_thickness": 0.4,
+        "other_text_thickness": 0.2,
         "other_text_upright": false,
         "pads": {
           "drill": 3.5,
@@ -502,23 +502,6 @@
         "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.75,
-        "diff_pair_gap": 0.5,
-        "diff_pair_width": 0.35,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "HV",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.35,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
-        "wire_width": 12
       }
     ],
     "meta": {
@@ -536,7 +519,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ui_board_1u_v2_no_ears.step",
+      "step": "ui_board_1u.step",
       "svg": "",
       "vrml": ""
     },
