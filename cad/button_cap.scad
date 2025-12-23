@@ -41,7 +41,8 @@ module stamp() {
 module cap(){
 	difference() {
 		union() {
-			cylinder(h=h_cap, d=5);
+			// Outer diameter of the cap (which needs to fit in the 5 mm hole of the FP)
+			cylinder(h=h_cap, d=5 - gap * 2);
 			// larger diameter for the inside part
 			cylinder(h=h_stamp + 8 - 7.3 - 2 * gap, d=6);
 		}
