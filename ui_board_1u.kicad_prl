@@ -29,13 +29,10 @@
       "zones": true
     },
     "visible_items": [
-      "vias",
       "footprint_text",
-      "footprint_anchors",
       "footprints_front",
       "footprints_back",
       "footprint_references",
-      "tracks",
       "drc_errors",
       "drawing_sheet",
       "bitmaps",
@@ -45,7 +42,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_0aa80020",
+    "visible_layers": "00000000_00000000_00000000_02000021",
     "zone_display_mode": 0
   },
   "git": {
