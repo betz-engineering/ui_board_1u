@@ -519,7 +519,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ui_board_1u.step",
+      "step": "cad/step/ui_board_1u.step",
       "svg": "",
       "vrml": ""
     },

@@ -13229,7 +13229,7 @@
 		)
 		(model "${KIPRJMOD}/cad/step/oled_panel_2.8inch.step"
 			(offset
-				(xyz 23.9 -43.7 73.52)
+				(xyz 0 -12.9 5.8)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -13239,6 +13239,7 @@
 			)
 		)
 		(model "${KIPRJMOD}/cad/step/example_panel_1U.stp"
+			(hide yes)
 			(opacity 0.9300)
 			(offset
 				(xyz -352 -21.75 11)
