@@ -61,8 +61,9 @@ module oled_frame() {
 		// slots for M2.5 square nuts
 		for (i=[-1, 1]) {
 			translate([40 * i, 0, 3]) {
-				translate([2 * i, 0, 0])
-					cube(size=[10, 5.1 + gap / 3, 1.7 + gap / 3], center=true);
+				translate([2 * i, 0, 0]){
+					cube(size=[10, 5.1, 1.6], center=true);
+				}
 				translate([0, 0, -1])
 					cylinder(h=10, d=2.8, center=true);
 			}
@@ -79,6 +80,13 @@ module oled_frame() {
 		rotate([0, 90, 0])
 			cylinder(h=w_flex + 2 * gap, d=d_lip, center=true);
 	}
+
+	// Square nut retainer
+	for (i=[-1, 1])
+		for (j=[-1, 1])
+			translate([43.3 * i, j * 1.5, 3.88])
+				rotate([0, -i * 15, 0])
+					cube(size=[1.25, 0.6, 0.5], center=true);
 }
 
 // translate([0, 0, h_offset + gap])
@@ -88,11 +96,11 @@ intersection() {
 	union() {
 		!oled_frame();
 		// Square nut
-		// translate([40, 0, 2])
-		// 	cube_(size=[5.0, 5.0, 1.55]);
+		translate([40, 0, 2])
+			cube_(size=[5.0, 5.0, 1.6]);
 		// // Screw
-		// translate([40, 0, -1.6])
-		// 	cylinder(h=5, d=2.5);
+		translate([40, 0, -1.6])
+			cylinder(h=6, d=2.5);
 	}
 	// translate([0, 50, 0])
 	// 	cube(size=[100, 100, 100], center=true);
